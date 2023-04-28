@@ -61,6 +61,7 @@ const StyledNav = styled.nav`
   font-family: var(--font-mono);
   counter-reset: item 0;
   z-index: 12;
+  justify-content: flex-end;
 
   .logo {
     ${({ theme }) => theme.mixins.flexCenter};
@@ -158,19 +159,19 @@ const Nav = ({ isHome }) => {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
-  const Logo = (
-    <div className="logo" tabIndex="-1">
-      {isHome ? (
-        <a href="/" aria-label="home">
-          <IconLogo />
-        </a>
-      ) : (
-        <Link to="/" aria-label="home">
-          <IconLogo />
-        </Link>
-      )}
-    </div>
-  );
+  // const Logo = (
+  //   <div className="logo" tabIndex="-1">
+  //     {isHome ? (
+  //       <a href="/" aria-label="home">
+  //         <IconLogo />
+  //       </a>
+  //     ) : (
+  //       <Link to="/" aria-label="home">
+  //         <IconLogo />
+  //       </Link>
+  //     )}
+  //   </div>
+  // );
 
   const ResumeLink = (
     <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
@@ -183,7 +184,7 @@ const Nav = ({ isHome }) => {
       <StyledNav>
         {prefersReducedMotion ? (
           <>
-            {Logo}
+            {/* {Logo} */}
 
             <StyledLinks>
               <ol>
@@ -201,13 +202,14 @@ const Nav = ({ isHome }) => {
           </>
         ) : (
           <>
-            <TransitionGroup component={null}>
+            {/* <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeClass} timeout={timeout}>
                   <>{Logo}</>
+                  <></>
                 </CSSTransition>
               )}
-            </TransitionGroup>
+            </TransitionGroup> */}
 
             <StyledLinks>
               <ol>
