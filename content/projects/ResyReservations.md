@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Resy Reservations'
-github: 'https://github.com/edmundj0/resy-reservations-bot'
+# github: 'https://github.com/edmundj0/resy-reservations-bot'
 external: 'https://github.com/edmundj0/resy-reservations-bot'
 tech:
   - Python
