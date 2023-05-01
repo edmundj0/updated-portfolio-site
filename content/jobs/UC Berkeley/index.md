@@ -8,4 +8,4 @@ url: 'https://berkeley.edu'
 ---
 
 - B.A. in Molecular and Cell Biology, Minor in Environmental Economics and Policy
-- Health Worker @ University Health Services - Synthesized health information and addressed first aid emergencies to > 50 emmbers of Sigma Alpha Mu chapter house
+- Health Worker @ University Health Services - Synthesized health information and addressed first aid emergencies to > 50 members of Sigma Alpha Mu chapter house

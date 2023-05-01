@@ -141,9 +141,9 @@ const About = () => {
               about HTML &amp; CSS!
                */}
                I'm a software engineer with a Bachelor's in Molecular Biology and previous work experience in full cycle agency recruiting and sales.
-               I have worked with React, Redux, Python, and many other technologies to build full stack applications, including a cryptocurrency trading
+               I have experience working with React, Redux, Python, and many other technologies to build full stack applications, including a cryptocurrency trading
                platform for users to learn trading without risking real capital. I'm always looking for continual growth, and I'm eager to build impactful applications
-               and learn new technologies.
+               and learn new skills.
             </p>
 
             {/* <p>
@@ -166,7 +166,7 @@ const About = () => {
               &amp; React.
             </p> */}
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
