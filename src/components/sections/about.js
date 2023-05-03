@@ -140,7 +140,7 @@ const About = () => {
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!
                */}
-               I'm a software engineer with a Bachelor's in Molecular and Cell Biology and previous work experience in biotech agency recruiting and sales.
+               I'm a software engineer with a Bachelor's in Molecular and Cell Biology from UC Berkeley and previous work experience in biotech agency recruiting and sales.
                I have experience working with JavaScript, React, Redux, Python, and many other technologies to build full stack applications, including a cryptocurrency trading
                platform for users to learn trading without risking real capital. I'm always looking for continual growth, and I'm eager to build impactful applications
                and learn new skills.
