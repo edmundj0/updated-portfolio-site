@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React/Redux', 'Python', 'Node.js', 'PostgreSQL / MongoDB / InfluxDB'];
+  const skills = ['JavaScript (ES6+)', 'React/Redux', 'Python', 'Node.js', 'PostgreSQL / MongoDB / InfluxDB', 'Flask'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,8 +140,8 @@ const About = () => {
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!
                */}
-               I'm a software engineer with a Bachelor's in Molecular Biology and previous work experience in full cycle agency recruiting and sales.
-               I have experience working with React, Redux, Python, and many other technologies to build full stack applications, including a cryptocurrency trading
+               I'm a software engineer with a Bachelor's in Molecular and Cell Biology and previous work experience in biotech agency recruiting and sales.
+               I have experience working with JavaScript, React, Redux, Python, and many other technologies to build full stack applications, including a cryptocurrency trading
                platform for users to learn trading without risking real capital. I'm always looking for continual growth, and I'm eager to build impactful applications
                and learn new skills.
             </p>
