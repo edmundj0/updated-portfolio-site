@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '2022-05-05'
 title: 'Connect!'
 github: ''
 external: 'https://github.com/edmundj0/event-bookings-graphql'
