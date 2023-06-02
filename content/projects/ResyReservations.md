@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Python script to continuously query Resy API, checking specific restaurant reservation availability and automating booking process, allowing user to outcompete website users
+Python script to continuously query Resy API, checking restaurant availability and automating booking process, allowing user to outcompete website users and snatch reservations at busy establishments

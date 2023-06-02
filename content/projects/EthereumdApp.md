@@ -8,7 +8,7 @@ tech:
   - Solidity
   - Etherum Blockchain
   - React
-showInProjects: false
+showInProjects: true
 ---
 
-Deployed smart contracts on ethereum blockchain. React frontend for users to interact on the decentralized application
+Deployed smart contracts on ethereum testnet allowing users to send messages. Decentralized backend with React frontend
